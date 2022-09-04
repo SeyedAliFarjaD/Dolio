@@ -9,6 +9,7 @@ import {
 import avatar from "./../../avatar.jpg";
 
 window.showDialog = false;
+
 window.sendme = () => {
   const m =
     document.getElementById("t1")?.value +
